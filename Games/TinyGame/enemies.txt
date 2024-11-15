@@ -1,0 +1,7 @@
+Barbarian
+5
+4
+
+Goblin
+2
+5
